@@ -104,14 +104,3 @@ I craft handmade resin dice as a creative outlet. Precision, patience, and a lit
 
 Visit https://shop.masked-mobster.lu
 
----
-
-<div align="center">
-
-```
-// Thanks for visiting · berck.lu · Luxembourg
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
