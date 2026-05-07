@@ -102,6 +102,8 @@ visitor@github:~$ █
 
 I craft handmade resin dice as a creative outlet. Precision, patience, and a little bit of chaos — not unlike debugging at 2am.
 
+Visit https://shop.masked-mobster.lu
+
 ---
 
 <div align="center">
